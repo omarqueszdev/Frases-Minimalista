@@ -41,7 +41,7 @@ body {
     margin-top: 20px;
   }
   
-  .social-icons-container img {
+  .social-icons-container svg {
     display: block;
     width: 25px;
     height: 25px;
