@@ -47,7 +47,6 @@ body {
     height: 25px;
     margin: 0 5px;
     cursor: pointer;
-    /* Invert the social icons */
     filter: invert(1) opacity(0.6);
   }
   
